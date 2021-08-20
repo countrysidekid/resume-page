@@ -1,2 +1,1 @@
-# resume-page
-my resume page
+# Resume CV Design
